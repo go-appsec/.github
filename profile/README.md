@@ -1,7 +1,3 @@
-## go-appsec
-
-Application security tools written in Go. Built for pentesters, AppSec engineers, and coding agents.
-
 Our modules focus on practical testing workflows — proxy interception, reconnaissance, out-of-band detection — designed to work standalone or together. The flagship project, **[toolbox](https://github.com/go-appsec/toolbox)**, exposes these capabilities through both a CLI and an MCP server, so human operators and LLM agents can collaborate on the same session.
 
 ### Repositories
